@@ -1,0 +1,23 @@
+base_url_list_a = [
+    "https://www.google.com/maps/@24.7170189,46.6936028,13z/data=!3m1!4b1!4m2!11m1!2sIgTavbdesvo-GnNP12ncXltaclgNnw",\
+    "https://www.google.com/maps/@24.7407089,46.652319,12z/data=!3m1!4b1!4m2!11m1!2s1b76qH0nPSOqogy49-UOF2MwaTof2Q",\
+    "https://www.google.com/maps/@24.6900828,46.6799462,11z/data=!3m1!4b1!4m2!11m1!2sp0NteEbjqCCrCWyinlQLvCwLIKwCiQ",\
+    "https://www.google.com/maps/@24.7553332,46.6725814,12z/data=!3m1!4b1!4m2!11m1!2s-Zt-sf0omZfXBeJxXd1-cd-BPf6moA",\
+    "https://www.google.com/maps/@24.7458082,46.6507294,12z/data=!3m1!4b1!4m2!11m1!2sZWMvV1Bn_-RFFj4PINJVOkKFSaeGag",\
+    "https://www.google.com/maps/@24.7443601,46.6753434,13z/data=!3m1!4b1!4m2!11m1!2so-g35cqRZRdlNC0ZVV0NlYzAJAmFJQ",\
+    "https://www.google.com/maps/@24.7508804,46.6640454,13z/data=!3m1!4b1!4m2!11m1!2sH5FAjx5YdMClTGtzS5Gwyw9jRuqa0w",\
+    "https://www.google.com/maps/@24.7575995,46.6384888,14z/data=!3m1!4b1!4m2!11m1!2sWs6XQrfmdP7or0X5FdmG3ad4tZBb4w",\
+    "https://www.google.com/maps/@24.7870007,46.6196148,14z/data=!3m1!4b1!4m2!11m1!2sZYeH0ZA9OCpPyXwCnBtELD_15yuVwg",\
+    "https://www.google.com/maps/@24.7221517,46.6510171,14z/data=!3m1!4b1!4m2!11m1!2svXA0JucTxVb4B3Gnu_fxtgdfZ9UBBA",\
+    "https://www.google.com/maps/@24.7319678,46.6485199,17z/data=!3m1!4b1!4m2!11m1!2ssgc-jF6SeZQCOt0YWFZlNFveuE4zRg",\
+    "https://www.google.com/maps/@24.6996336,46.6436178,17z/data=!3m1!4b1!4m2!11m1!2sqHBH6p8vlkeJxj9E_c5SqKlSePi3gg",\
+    "https://www.google.com/maps/@24.7227551,46.6564067,13z/data=!3m1!4b1!4m2!11m1!2shDoXiquje5gCWBYM0Ubm_lui4pinLw",\
+    "https://www.google.com/maps/@24.7513146,46.7133549,12z/data=!3m1!4b1!4m2!11m1!2ss1g_YKo8vFkMIKeDj6mOLl-YeR0UiQ",\
+    "https://www.google.com/maps/@24.7665243,46.6595358,12z/data=!3m1!4b1!4m2!11m1!2s9DtDcmPSx1CXSPal_F9W2DmhXE9Kcg",\
+    "https://www.google.com/maps/@24.7484856,46.7137807,12z/data=!3m1!4b1!4m2!11m1!2sHk2J38ChMoziROWvfRj3YT3i-_qcow",\
+    "https://www.google.com/maps/@24.7049531,46.7506607,13z/data=!3m1!4b1!4m2!11m1!2sf0UJyY0NfLsilzFKrI_3EAgUFKHHog",\
+    "https://www.google.com/maps/@24.7562875,46.6578472,13z/data=!3m1!4b1!4m2!11m1!2sRZ1eCg7Hsz6Gakshlcc6il_BBhnyYQ",\
+    "https://www.google.com/maps/@24.7567505,46.6917853,13z/data=!3m1!4b1!4m2!11m1!2saPOuFpCCSmSQyzDiP-UvOA",\
+    "https://www.google.com/maps/@24.7521615,46.677694,12z/data=!3m1!4b1!4m2!11m1!2sZQS292hMnSgZXE-sAsnnDzYgHqYOJw",\
+    "https://www.google.com/maps/@24.7827295,46.6396046,15z/data=!3m1!4b1!4m2!11m1!2s7voR68HKxYuRCoI7HWJUJR6aDXgbdw"\
+]
